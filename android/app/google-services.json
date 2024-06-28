@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796730025932",
+    "project_id": "inent-650b3",
+    "storage_bucket": "inent-650b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796730025932:android:3e30d3298fb5bb06095f69",
+        "android_client_info": {
+          "package_name": "com.webapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHzNV64rq3XRYloarRgvFas_Xpa0QIFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
